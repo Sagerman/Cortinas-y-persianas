@@ -1,0 +1,17 @@
+{
+  "name": "Persianas & Cortinas Dany",
+  "short_name": "Cortinas Dany",
+  "description": "Decoración con Estilo — Cortinas, persianas y estores a medida en Granada, Meta.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081C15",
+  "theme_color": "#2D6A4F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

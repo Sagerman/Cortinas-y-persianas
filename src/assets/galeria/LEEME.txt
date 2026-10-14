@@ -1,0 +1,20 @@
+CARPETA DE LA GALERÍA — Cortinas Dani
+======================================
+
+Copia aquí tus fotos y videos. Aparecen solos en la página /galeria
+y en la sección "Nuestros Trabajos" del inicio. No hay que tocar código.
+
+  cortinas\    -> fotos y videos de cortinas
+  persianas\   -> fotos y videos de persianas
+
+Si creas otra carpeta (por ejemplo "estores"), se crea un filtro nuevo
+con ese nombre automáticamente.
+
+Formatos de foto:  .jpg .jpeg .png .webp .avif .gif
+Formatos de video: .mp4 (recomendado) .webm .mov .m4v
+
+Consejos:
+- Las fotos se ordenan por nombre (01.jpg, 02.jpg, ...).
+- Fotos de celular .HEIC (iPhone) NO se ven en el navegador: conviértelas a .jpg.
+- Videos: mejor .mp4 y de menos de ~20 MB cada uno para que carguen rápido.
+- Las fotos idealmente de máximo 2000 px de ancho.

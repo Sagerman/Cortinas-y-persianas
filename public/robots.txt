@@ -1,0 +1,7 @@
+# Robots.txt for Persianas & Cortinas Dany
+User-agent: *
+Allow: /
+Disallow: /portal-privado-dani/
+
+# Sitemap location
+Sitemap: https://persianascortinasdany.com/sitemap.xml
